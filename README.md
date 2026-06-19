@@ -1,0 +1,1 @@
+Projeto para mostrar para os alunos do Senai o basico de consumir APIs.
